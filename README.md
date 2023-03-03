@@ -17,6 +17,8 @@ The clip object can take one of three forms:
 
 
 
+![Main_Screen](https://user-images.githubusercontent.com/93324656/222719672-9094de25-1bc2-4c64-a074-5628a018b0c3.png)
+![Result_Screen](https://user-images.githubusercontent.com/93324656/222719693-5073cadb-6f9e-4511-afe2-7d6d44f7f9e1.png)
 
 
 
